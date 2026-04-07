@@ -1,0 +1,5 @@
+{
+  "name": "Motivational Quote Generator",
+  "description": "A mini web app that displays random motivational quotes with a copy to clipboard feature and dynamic background colors.",
+  "requestFramePermissions": []
+}
