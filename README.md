@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Random Quote Generator
 
-# Run and deploy your AI Studio app
+Bu oddiy va zamonaviy **Random Quote Generator** React yordamida yaratilgan.  
+“Next Quote” tugmasini bosganingizda motivatsion iqtibos chiqadi va “Copy” tugmasi orqali uni clipboard’ga nusxalash mumkin. Portfolio uchun ideal mini-loyiha.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/a1d2a499-a6cb-4828-ad7a-607b28ba999b
+## 🚀 Xususiyatlari
 
-## Run Locally
+- Tasodifiy motivatsion iqtiboslar  
+- Quote’ni clipboard’ga nusxalash  
+- Smooth background rang o‘zgarishi  
+- Mobil qurilmalarga mos responsive dizayn  
+- **React Hooks** va functional components bilan ishlangan  
+- Quote’larni va dizaynni oson sozlash mumkin  
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Texnologiyalar
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **React** (v18+)  
+- **JavaScript (ES6+)**  
+- **TailwindCSS / CSS Modules** dizayn uchun  
+- Optional: Online quotes API  
+
+---
+
+## 🎨 Screenshot
+
+![Random Quote Generator skrinshot](screenshot.png)
+
+---
+
